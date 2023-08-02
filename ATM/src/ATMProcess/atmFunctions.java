@@ -94,9 +94,7 @@ public class atmFunctions {
         System.out.println("\nMain Menu:");
         System.out.println("1. Check Balance");
         System.out.println("2. Withdraw Money");
-        System.out.println("3. Transfer Money");
-        System.out.println("4. Check ATM Balance");
-        System.out.println("5. Mini Statement");
+        System.out.println("3. Check ATM Balance");
         System.out.println("Please enter your choice:");
     }
     
